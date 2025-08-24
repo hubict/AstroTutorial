@@ -1,4 +1,5 @@
 {
+  "name": "astro-tutorial",
   "compatibility_date": "2025-08-24",
   "build": {
     "command": "npm run build"
